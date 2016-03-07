@@ -1,0 +1,24 @@
+{
+  "name": "fekey-parser-swig",
+  "version": "1.0.1",
+  "description": "the fekey parser plugin of swig template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmfe/fekey-parser-swig.git"
+  },
+  "keywords": [
+    "fekey",
+    "parser",
+    "swig"
+  ],
+  "author": "flippyxu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmfe/fekey-parser-swig/issues"
+  },
+  "homepage": "https://github.com/wmfe/fekey-parser-swig#readme"
+}
