@@ -16,7 +16,7 @@
     "swig"
   ],
   "author": "flippyxu",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wmfe/fekey-parser-swig/issues"
   },
